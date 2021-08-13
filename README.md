@@ -1,6 +1,6 @@
 ## Prerequisites
-PHP 7.2+, Composer
-MySql 5.7
+- PHP 7.2+, Composer
+- MySql 5.7
 ## Installation
 - Clone git repository git clone git@github.com:mansidesai631/upload-file-app.git.
 
